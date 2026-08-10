@@ -1,0 +1,790 @@
+{
+  "root_ascendant": {
+    "title": "Start",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0
+  },
+  "ascendant_b1_1": {
+    "title": "+1 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b1_2": {
+    "title": "+2 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b1_3": {
+    "title": "+3 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b1_4": {
+    "title": "+4 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b1_5": {
+    "title": "+5 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b1_6": {
+    "title": "+6 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b1_7": {
+    "title": "+8 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 8,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b1_8": {
+    "title": "+10 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 10,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b1_cap": {
+    "title": "+4 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_1": {
+    "title": "+1 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_2": {
+    "title": "+1 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_3": {
+    "title": "+2 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_4": {
+    "title": "+2 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_5": {
+    "title": "+3 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_6": {
+    "title": "+3 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_7": {
+    "title": "+4 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_8": {
+    "title": "+5 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b2_cap": {
+    "title": "+5 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_1": {
+    "title": "+1 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_2": {
+    "title": "+2 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_3": {
+    "title": "+3 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_4": {
+    "title": "+4 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_5": {
+    "title": "+5 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_6": {
+    "title": "+6 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_7": {
+    "title": "+8 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 8,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_8": {
+    "title": "+10 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 10,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b3_cap": {
+    "title": "+4 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_1": {
+    "title": "+1 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_2": {
+    "title": "+2 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_3": {
+    "title": "+3 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_4": {
+    "title": "+4 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_5": {
+    "title": "+5 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_6": {
+    "title": "+6 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 6,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_7": {
+    "title": "+8 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 8,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_8": {
+    "title": "+10 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 10,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_b4_cap": {
+    "title": "+4 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "ascendant_master": {
+    "title": "+5 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "obsidian"
+      }
+    },
+    "cost": 5,
+    "required_spent_points": 24,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

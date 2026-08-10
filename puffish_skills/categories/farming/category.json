@@ -1,0 +1,13 @@
+{
+  "title": "Farming",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "diamond_hoe"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/adventure.png",
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "description": "Farming progression"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Engineering",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "redstone"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/adventure.png",
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "description": "Engineering progression"
+}

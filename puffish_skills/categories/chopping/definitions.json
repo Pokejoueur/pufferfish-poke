@@ -1,0 +1,790 @@
+{
+  "root_chopping": {
+    "title": "Start",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0
+  },
+  "chopping_b1_1": {
+    "title": "+1 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b1_2": {
+    "title": "+1 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b1_3": {
+    "title": "+1 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b1_4": {
+    "title": "+2 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b1_5": {
+    "title": "+2 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b1_6": {
+    "title": "+2 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b1_7": {
+    "title": "+3 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b1_8": {
+    "title": "+3 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b1_cap": {
+    "title": "+4 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_1": {
+    "title": "+1 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_2": {
+    "title": "+1 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_3": {
+    "title": "+1 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_4": {
+    "title": "+2 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_5": {
+    "title": "+2 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_6": {
+    "title": "+2 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_7": {
+    "title": "+3 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_8": {
+    "title": "+3 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b2_cap": {
+    "title": "+4 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_1": {
+    "title": "+1 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_2": {
+    "title": "+1 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_3": {
+    "title": "+1 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_4": {
+    "title": "+1 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_5": {
+    "title": "+2 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_6": {
+    "title": "+2 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_7": {
+    "title": "+2 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_8": {
+    "title": "+3 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b3_cap": {
+    "title": "+5 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_1": {
+    "title": "+1 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_2": {
+    "title": "+1 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_3": {
+    "title": "+1 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_4": {
+    "title": "+2 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_5": {
+    "title": "+2 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_6": {
+    "title": "+2 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_7": {
+    "title": "+3 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_8": {
+    "title": "+3 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_b4_cap": {
+    "title": "+4 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "chopping_master": {
+    "title": "+5 Axe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_axe"
+      }
+    },
+    "cost": 5,
+    "required_spent_points": 24,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:axe_speed",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,790 @@
+{
+  "root_mining": {
+    "title": "Start",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0
+  },
+  "mining_b1_1": {
+    "title": "+1 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b1_2": {
+    "title": "+1 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b1_3": {
+    "title": "+1 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b1_4": {
+    "title": "+2 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b1_5": {
+    "title": "+2 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b1_6": {
+    "title": "+2 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b1_7": {
+    "title": "+3 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b1_8": {
+    "title": "+3 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b1_cap": {
+    "title": "+4 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_1": {
+    "title": "+1 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_2": {
+    "title": "+1 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_3": {
+    "title": "+1 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_4": {
+    "title": "+2 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_5": {
+    "title": "+2 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_6": {
+    "title": "+2 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_7": {
+    "title": "+3 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_8": {
+    "title": "+3 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b2_cap": {
+    "title": "+4 Pickaxe Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:pickaxe_speed",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_1": {
+    "title": "+1 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_2": {
+    "title": "+1 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_3": {
+    "title": "+1 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_4": {
+    "title": "+2 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_5": {
+    "title": "+2 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_6": {
+    "title": "+2 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_7": {
+    "title": "+3 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_8": {
+    "title": "+3 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b3_cap": {
+    "title": "+4 Breaking Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:breaking_speed",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_1": {
+    "title": "+1 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_2": {
+    "title": "+1 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_3": {
+    "title": "+1 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_4": {
+    "title": "+1 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_5": {
+    "title": "+2 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_6": {
+    "title": "+2 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_7": {
+    "title": "+2 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_8": {
+    "title": "+3 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_b4_cap": {
+    "title": "+5 Fortune",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:fortune",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "mining_master": {
+    "title": "+5 Mining Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_pickaxe"
+      }
+    },
+    "cost": 5,
+    "required_spent_points": 24,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:mining_speed",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

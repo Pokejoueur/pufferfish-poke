@@ -1,0 +1,14 @@
+{
+  "title": "✦ Ascendant",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "obsidian"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/adventure.png",
+  "unlocked_by_default": false,
+  "exclusive_root": false,
+  "description": "A hidden meta-progression tree. 1 obsidian = 1 Ascendant point.",
+  "extra_description": "The intended secret is discovered outside this category."
+}

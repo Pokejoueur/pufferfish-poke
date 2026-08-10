@@ -1,0 +1,790 @@
+{
+  "root_combat": {
+    "title": "Start",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0
+  },
+  "combat_b1_1": {
+    "title": "+1 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b1_2": {
+    "title": "+1 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b1_3": {
+    "title": "+1 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b1_4": {
+    "title": "+2 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b1_5": {
+    "title": "+2 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b1_6": {
+    "title": "+2 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b1_7": {
+    "title": "+3 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b1_8": {
+    "title": "+3 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b1_cap": {
+    "title": "+4 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_1": {
+    "title": "+1 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_2": {
+    "title": "+1 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_3": {
+    "title": "+1 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_4": {
+    "title": "+1 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_5": {
+    "title": "+2 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_6": {
+    "title": "+2 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_7": {
+    "title": "+3 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_8": {
+    "title": "+3 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b2_cap": {
+    "title": "+4 Resistance",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:resistance",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_1": {
+    "title": "+1 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_2": {
+    "title": "+1 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_3": {
+    "title": "+1 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_4": {
+    "title": "+2 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_5": {
+    "title": "+2 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_6": {
+    "title": "+2 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_7": {
+    "title": "+3 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_8": {
+    "title": "+3 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b3_cap": {
+    "title": "+4 Sprinting Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:sprinting_speed",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_1": {
+    "title": "+1 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_2": {
+    "title": "+1 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_3": {
+    "title": "+2 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_4": {
+    "title": "+2 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_5": {
+    "title": "+2 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_6": {
+    "title": "+3 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_7": {
+    "title": "+3 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_8": {
+    "title": "+4 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_b4_cap": {
+    "title": "+4 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "combat_master": {
+    "title": "+5 Melee Damage",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "diamond_sword"
+      }
+    },
+    "cost": 5,
+    "required_spent_points": 24,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:melee_damage",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

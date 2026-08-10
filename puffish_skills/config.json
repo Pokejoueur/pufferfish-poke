@@ -1,0 +1,15 @@
+{
+  "version": 3,
+  "categories": [
+    "player",
+    "combat",
+    "mining",
+    "chopping",
+    "farming",
+    "travel",
+    "fishing",
+    "crafting",
+    "engineering",
+    "ascendant"
+  ]
+}

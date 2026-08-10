@@ -1,0 +1,13 @@
+{
+  "title": "Player",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "nether_star"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/adventure.png",
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "description": "Player progression"
+}

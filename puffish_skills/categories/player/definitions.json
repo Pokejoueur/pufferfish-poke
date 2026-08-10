@@ -1,0 +1,790 @@
+{
+  "root_player": {
+    "title": "Start",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0
+  },
+  "player_b1_1": {
+    "title": "+1 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b1_2": {
+    "title": "+1 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b1_3": {
+    "title": "+2 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b1_4": {
+    "title": "+2 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b1_5": {
+    "title": "+3 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b1_6": {
+    "title": "+3 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b1_7": {
+    "title": "+4 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b1_8": {
+    "title": "+5 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b1_cap": {
+    "title": "+4 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_1": {
+    "title": "+1 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_2": {
+    "title": "+1 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_3": {
+    "title": "+2 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_4": {
+    "title": "+2 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_5": {
+    "title": "+2 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_6": {
+    "title": "+3 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_7": {
+    "title": "+3 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_8": {
+    "title": "+4 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b2_cap": {
+    "title": "+4 Max Health",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.max_health",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_1": {
+    "title": "+1 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_2": {
+    "title": "+1 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_3": {
+    "title": "+1 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_4": {
+    "title": "+2 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_5": {
+    "title": "+2 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_6": {
+    "title": "+2 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_7": {
+    "title": "+3 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_8": {
+    "title": "+3 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b3_cap": {
+    "title": "+4 Movement Speed",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.movement_speed",
+          "value": 4,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_1": {
+    "title": "+1 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_2": {
+    "title": "+1 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_3": {
+    "title": "+1 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 1,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_4": {
+    "title": "+2 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 1,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_5": {
+    "title": "+2 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_6": {
+    "title": "+2 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 2,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_7": {
+    "title": "+3 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_8": {
+    "title": "+3 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 2,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 3,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_b4_cap": {
+    "title": "+5 Luck",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 3,
+    "required_spent_points": 0,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "generic.luck",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  },
+  "player_master": {
+    "title": "+5 Experience",
+    "icon": {
+      "type": "item",
+      "data": {
+        "item": "nether_star"
+      }
+    },
+    "cost": 5,
+    "required_spent_points": 24,
+    "rewards": [
+      {
+        "type": "puffish_skills:attribute",
+        "data": {
+          "attribute": "puffish_attributes:experience",
+          "value": 5,
+          "operation": "addition"
+        }
+      }
+    ]
+  }
+}

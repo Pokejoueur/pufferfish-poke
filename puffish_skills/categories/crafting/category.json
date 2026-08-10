@@ -1,0 +1,13 @@
+{
+  "title": "Crafting",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "crafting_table"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/adventure.png",
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "description": "Crafting progression"
+}

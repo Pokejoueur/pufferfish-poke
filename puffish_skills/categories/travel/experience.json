@@ -1,0 +1,44 @@
+{
+  "level_limit": 100,
+  "experience_per_level": {
+    "type": "expression",
+    "data": {
+      "expression": "min(10 + level ^ 1.35, 1000)"
+    }
+  },
+  "sources": [
+    {
+      "type": "puffish_skills:increase_stat",
+      "data": {
+        "variables": {
+          "is_walk": {
+            "operations": [
+              {
+                "type": "get_stat"
+              },
+              {
+                "type": "puffish_skills:test",
+                "data": {
+                  "stat": "minecraft.custom:minecraft.walk_one_cm"
+                }
+              }
+            ]
+          },
+          "amount": {
+            "operations": [
+              {
+                "type": "get_increase_amount"
+              }
+            ]
+          }
+        },
+        "experience": [
+          {
+            "condition": "is_walk",
+            "expression": "amount / 100"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Combat",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "diamond_sword"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/adventure.png",
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "description": "Combat progression"
+}

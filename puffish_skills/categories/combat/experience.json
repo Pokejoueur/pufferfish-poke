@@ -1,0 +1,27 @@
+{
+  "level_limit": 100,
+  "experience_per_level": {
+    "type": "expression",
+    "data": {
+      "expression": "min(10 + level ^ 1.35, 1000)"
+    }
+  },
+  "sources": [
+    {
+      "type": "puffish_skills:deal_damage",
+      "data": {
+        "experience": "1"
+      }
+    },
+    {
+      "type": "puffish_skills:kill_entity",
+      "data": {
+        "experience": "5",
+        "anti_farming": {
+          "limit_per_chunk": 25,
+          "reset_after_seconds": 300
+        }
+      }
+    }
+  ]
+}

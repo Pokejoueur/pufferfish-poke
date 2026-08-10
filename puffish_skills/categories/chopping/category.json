@@ -1,0 +1,13 @@
+{
+  "title": "Chopping",
+  "icon": {
+    "type": "item",
+    "data": {
+      "item": "diamond_axe"
+    }
+  },
+  "background": "textures/gui/advancements/backgrounds/adventure.png",
+  "unlocked_by_default": true,
+  "exclusive_root": false,
+  "description": "Chopping progression"
+}
